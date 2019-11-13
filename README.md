@@ -19,7 +19,7 @@
 #### 3、需要深度信息
   解决方案：深度学习学习深度
    + CODE-SLAM
-   + Learning Meshes for dense Visual SLAM（CODE-SlAM的后续）
+   + Learning Meshes for dense Visual SLAM（CODE-SLAM的后续）
    + deep virtual DSO
 #### 4、单目求深度
   解决方案：
